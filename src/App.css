@@ -1,3 +1,5 @@
 #textOutput {
-    resize: none;
+    width: 500px;
+    height: 300px;
+    background-color: blue;
 }
